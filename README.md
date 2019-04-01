@@ -1,16 +1,16 @@
 # mvc-twitter
 
 Languages:
--HTML
--CSS
--Javascript
--PHP
+- HTML
+- CSS
+- Javascript
+- PHP
 
 Database:
--mySQL
+- mySQL
 
 Framework:
--Bootstrap
+- Bootstrap
 
 Library:
--jQuery
+- jQuery
