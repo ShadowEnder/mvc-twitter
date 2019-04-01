@@ -1,23 +1,23 @@
 # mvc-twitter
 
-Languages:
+## Languages:
 - HTML
 - CSS
 - Javascript
 - PHP
 
-Database:
+## Database:
 - mySQL
 
-Framework:
+## Framework:
 - Bootstrap
 - MVC
 
-Library:
+## Library:
 - jQuery
 
 
-Future Additions to work on:
+### Future Additions to work on:
 - User / Public Profile Search
 - Add a Display Name and display that instead of email
 - When a tweet is posted, automatically update page so it appears immediately instead of having to refresh.
